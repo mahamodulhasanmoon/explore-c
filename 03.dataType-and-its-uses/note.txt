@@ -1,0 +1,10 @@
+data is a a peach of information 
+
+// Create read updates and delete
+
+catgegorize
+
+1.size
+2.type
+
+c is a statically type Programming Language
