@@ -24,3 +24,12 @@ int main(){
 }
  basic function in c program
 
+
+
+// c program valiables
+
+data type + variable name + asignment operator (=) + value 
+
+ex : int myVariable = 3469;
+
+variable name is also call as identifier
