@@ -49,3 +49,13 @@ scop er upore define kore
 
 define means memoty alocation
 declear means asign data in memory
+
+
+// data type
+
+1.number type
+        int, float ,short ,long , double , long long
+2 text type
+     charecter ,
+3. boolean type
+4. custom type
