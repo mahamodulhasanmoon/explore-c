@@ -5,19 +5,17 @@ int main (){
 // learn variable
   // for integer variables
 
- int number =10;
 
- printf("number + 5 = %d\n",number + 5);
- printf("number - 5 = %d\n",number - 5);
- printf("number * 5 = %d\n",number * 5);
- printf("number / 5 = %d\n",number / 5);
+
+  int a = 20;
+    int b = 100;
+    printf("%d + %d = %d\n",a,b,a+b);
+    printf("%d - %d = %d\n",a,b,a-b);
+    printf("%d * %d = %d\n",a,b,a*b);
+    printf("%d / %d = %d\n",a,b,a/b);
  
- 
-
-
-
-
-
-
     return 0;
 }
+
+
+
