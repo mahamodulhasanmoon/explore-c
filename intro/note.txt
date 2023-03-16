@@ -1,0 +1,26 @@
+// compiling and executing build and run
+
+//gcc hello.c -o hello for build
+
+// 4 step in run code 
+
+/**
+ *  step 1 editing
+ * step 2 compiling
+ *  step 3 linking
+ * step 4 executing
+*/
+
+std = standered
+i= input
+o= output
+.h = input from header
+
+#include <stdio.h>
+
+int main(){
+   
+    return 0;
+}
+ basic function in c program
+
