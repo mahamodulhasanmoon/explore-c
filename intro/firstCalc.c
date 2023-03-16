@@ -1,11 +1,8 @@
 # include <stdio.h>
 
-// global variables
-int abc;
-
 int main (){
 
-abc= 500;
+// my first  time calculation with c programming
   int a = 20;
     int b = 100;
     printf("%d + %d = %d\n",a,b,a+b);
@@ -15,6 +12,3 @@ abc= 500;
  
     return 0;
 }
-
-
-

@@ -33,3 +33,19 @@ data type + variable name + asignment operator (=) + value
 ex : int myVariable = 3469;
 
 variable name is also call as identifier
+
+
+scop er upore define kore 
+// local variables
+// global variables
+
+
+// memory life time 
+1.static  variable  without memory free
+2. automic variable with memory free
+
+// external variables
+(shareable variables)
+
+define means memoty alocation
+declear means asign data in memory
