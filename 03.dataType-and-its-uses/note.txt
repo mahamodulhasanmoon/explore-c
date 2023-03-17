@@ -8,3 +8,5 @@ catgegorize
 2.type
 
 c is a statically type Programming Language
+
+// emplecive conversion
