@@ -35,5 +35,43 @@ printf("I am decimal of hex - %d\n", hex);
 // unsigned integer
 printf("unsigned integer :\n");
 
+// unsigned short 
+
+unsigned short us = 25;
+printf("unsigned short- %hu :\n",us);
+
+// unsigned integer
+
+unsigned int ui = 0;
+printf("unsigned short- %u :\n",ui);
+// unsigned integer
+
+unsigned long  ul = 415185;
+printf("unsigned long- %lu :\n",ui);
+// long data 
+unsigned long  ull = 415185;
+printf("unsigned long- %llu :\n",ull);
+
+// if i print as a negative number
+
+unsigned short uiNegative = -2;
+printf("negative- %hu :\n",uiNegative);
+
     return 0;
 }
+
+// binary value of -2
+
+// 0000000000000010
+
+// oposit number 
+
+// 111111111111101 complement of one 
+
+//               +1
+//----------------------
+  // 1111111111111110   negitive value of two 
+
+//   if i wanna decimal number 
+//  so output is being - 65534 
+
