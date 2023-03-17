@@ -10,4 +10,5 @@ int main() {
     printf("%c %d %x\n", r,r,r);
 
     return 0;
+    
 }
