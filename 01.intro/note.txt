@@ -73,3 +73,5 @@ continue	goto	sizeof	volatile
 default	if	static	while
 do	int	struct	_Packed
 double	 
+
+// printf and scranff for input and ooutput 
